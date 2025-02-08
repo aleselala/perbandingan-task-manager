@@ -28,5 +28,4 @@
 - Jika ingin melihat detail lebih lanjut di Linux, bisa menggunakan `htop` atau `ps` di terminal.  
 
 ---
-
-_Repository ini dibuat untuk membandingkan Task Manager Windows dan Linux._  
+  
