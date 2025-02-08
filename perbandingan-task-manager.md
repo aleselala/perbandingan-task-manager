@@ -2,7 +2,7 @@
 
 ## 1. Tangkapan Layar
 ### Task Manager di Windows  
-![Task Manager Windows](./Screenshot_2025-02-06_113304.png)
+![Task Manager Windows](Screenshot_2025-02-06_113304.jpg)
 
 ### System Monitor di Linux  
 ![System Monitor Linux](./linux_cpu_task_manager.jpg)
